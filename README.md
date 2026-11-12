@@ -1,4 +1,4 @@
-## Mini Online Store
+## OnStore
 
 A robust full-stack e-commerce application featuring customer authentication, a product catalogue with server-side filtering and sorting, a dynamic shopping cart with a real-time navbar count badge, transactional checkout with coupon validation and concurrency-safe stock deduction, customer order history with immutable historical snapshots, and a role-protected administrative management portal.
 
